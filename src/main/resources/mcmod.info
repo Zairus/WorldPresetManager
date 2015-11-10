@@ -1,0 +1,16 @@
+[
+{
+  "modid": "worldpresetmanager",
+  "name": "World Preset Manager",
+  "description": "Lets you manage world presets for your gameplay or modpacks.",
+  "version": "1.1.5",
+  "mcversion": "${mcversion}",
+  "url": "http://minecraft.curseforge.com/mc-mods/229608-world-preset-manager",
+  "updateUrl": "",
+  "authorList": ["Winter_Grave"],
+  "credits": "Decided to do it because bacon_donut",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
